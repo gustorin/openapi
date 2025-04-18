@@ -14,5 +14,9 @@
     {
         "name": "Provider ArgoWorkflow API", 
         "url": "https://paas.k9s.kr/prv-argo-workflow/q/openapi"
+    },
+    {
+        "name": "Provider Keycloak API", 
+        "url": "http://paas.k9s.kr/prv-keycloak/q/openapi"
     }
 ]
