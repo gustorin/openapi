@@ -1,0 +1,5 @@
+[
+  {"name": "app-paas-data API", "url": "https://paas.k9s.kr/app-paas-data/q/openapi"},
+  {"name": "Provider Gitea API", "url": "https://paas.k9s.kr/prv-gitea/q/openapi"},
+  {"name": "Provider Prometheus API", "url": "https://paas.k9s.kr/prv-prometheus/q/openapi"}
+]
