@@ -21,6 +21,6 @@
     },    
     {
         "name": "Provider Keycloak API", 
-        "url": "http://paas.k9s.kr/prv-keycloak/q/openapi"
+        "url": "https://paas.k9s.kr/prv-keycloak/q/openapi"
     }
 ]
